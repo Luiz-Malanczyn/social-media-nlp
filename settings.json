@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "./venv/bin/python",  // Ajuste para o caminho correto do seu ambiente virtual
+    "python.analysis.extraPaths": [
+        "./social_media_nlp"
+    ]
+}
