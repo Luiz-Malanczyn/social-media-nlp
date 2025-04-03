@@ -1,0 +1,10 @@
+# Ambientes virtuais e dependências do Poetry
+.venv/
+poetry.lock
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Airflow
+logs/
