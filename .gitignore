@@ -8,3 +8,7 @@ Thumbs.db
 
 # Airflow
 logs/
+
+#secrets and configs
+config/
+secret/
