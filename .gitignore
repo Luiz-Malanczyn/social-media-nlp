@@ -1,5 +1,6 @@
 # Ambientes virtuais e dependências do Poetry
 .venv/
+venv/
 poetry.lock
 
 # Arquivos de sistema
@@ -9,6 +10,11 @@ Thumbs.db
 # Airflow
 logs/
 
-#secrets and configs
+# Secrets and configs
 config/
 secret/
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
